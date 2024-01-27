@@ -1,8 +1,8 @@
-**#E-Learning Platform using Django and Django Channels**
+# E-Learning Platform using Django and Django Channels
 
 Welcome to our e-learning platform built using Django and Django Channels! This platform provides an interactive environment for both teachers and students to engage in learning and teaching activities. Project as taught in *Django 3 by Example* by Antonio Mele.
 
-**##Features**
+## Features
 
 - **Course Creation:** Teachers can create courses on various subjects.
 - **Module Creation:** Within each course, teachers can create modules to organize the content.
